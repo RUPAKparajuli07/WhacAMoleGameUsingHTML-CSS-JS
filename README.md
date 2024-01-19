@@ -56,7 +56,7 @@ Feel free to customize the game to your liking:
 
 ## Author
 
-This game was created by [Your Name].
+This game was created by RUPAKparajuli07
 
 ## License
 
