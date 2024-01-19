@@ -13,6 +13,7 @@ Whac a Mole is a simple web-based game that provides players with an entertainin
 5. [Customization](#customization)
 6. [Author](#author)
 7. [License](#license)
+8. [Preview of Game](#preview-of-game)  
 
 ## Getting Started
 
@@ -61,5 +62,9 @@ This game was created by RUPAKparajuli07
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Preview of Game  <!-- Corrected heading -->
+
+![Screenshot 2024-01-19 101649](https://github.com/RUPAKparajuli07/-Whac-a-Mole-Game-using-html-css-js/assets/110843279/cc833eea-9ba7-4aaf-be16-ce81e05219af)
 
 Have fun playing Whac a Mole! 🎮
