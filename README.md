@@ -14,7 +14,7 @@ Whac a Mole is a simple web-based game that provides players with an entertainin
 6. [Author](#author)
 7. [License](#license)
 
-
+## Getting Started
 
 To play the game, follow these steps:
 
